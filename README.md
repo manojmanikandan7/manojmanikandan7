@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manojmanikandan7
+- 👋 Hi, I’m Mano
 - 👀 I’m interested in Software Development and Cybersecurity.
 - 🌱 I’m currently learning Machine Learning and Compilers
 - 💞️ I’m looking to collaborate on any challenging project
